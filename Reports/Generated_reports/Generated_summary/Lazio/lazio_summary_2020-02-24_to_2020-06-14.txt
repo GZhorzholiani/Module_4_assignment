@@ -1,0 +1,11 @@
+Date Range: 2020-02-24 - 2020-06-14
+Hospitalizedpatients: 94,319
+Patientsinintensivecare: 10,174
+Totalhospitalizedpatients: 104,493
+Homeconfinement: 195,561
+Currentpositivecases: 300,054
+Newpositivecases: 7,954
+Healed: 180,525
+Dead: 40,376
+Totalpositivecases: 520,955
+Testsexecuted: 8,898,630
